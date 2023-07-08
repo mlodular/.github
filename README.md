@@ -18,28 +18,28 @@ https://fastapi.tiangolo.com
 -------------
 
 auto generation
-https://3dfy.ai
-https://bubble.io
-https://www.dora.run
-https://radicalmotion.com
-https://www.deepmotion.com
-https://openaimaster.com/make-a-3d-website-with-no-coding/
-https://www.fotor.com/features/ai-3d-model-generator/
-https://www.app.kaedim3d.com/signup
-https://www.kaedim3d.com
+https://3dfy.ai<br />
+https://bubble.io<br />
+https://www.dora.run<br />
+https://radicalmotion.com<br />
+https://www.deepmotion.com<br />
+https://openaimaster.com/make-a-3d-website-with-no-coding/<br />
+https://www.fotor.com/features/ai-3d-model-generator/<br />
+https://www.app.kaedim3d.com/signup<br />
+https://www.kaedim3d.com<br />
 
-https://spline.design/ai
-https://www.fotor.com/features/ai-3d-model-generator/
+https://spline.design/ai<br />
+https://www.fotor.com/features/ai-3d-model-generator/<br />
 
 fotor.com
-https://u-static.fotor.com/images/text-to-image/result/PRO-9fdad671df8c4fd188efb13aad640072.jpg
+https://u-static.fotor.com/images/text-to-image/result/PRO-9fdad671df8c4fd188efb13aad640072.jpg<br />
 _____________
 emerging tech
-https://reactjsexample.com/an-ai-powered-3d-website-using-react-and-three-js/
-https://blog.unity.com/engine-platform/introducing-unity-muse-and-unity-sentis-ai
-https://www.alpha3d.io
+https://reactjsexample.com/an-ai-powered-3d-website-using-react-and-three-js/<br />
+https://blog.unity.com/engine-platform/introducing-unity-muse-and-unity-sentis-ai<br />
+https://www.alpha3d.io<br />
 
-historical links from today
-https://lablab.ai/blog/best-4-text-to-video-ai-tools
-https://www.youtube.com/watch?v=ysUFk87I-Vk
-https://lablab.ai/t/stable-diffusion-tutorial-how-to-make-an-ai-art-with-qr-code
+historical links from today<br />
+https://lablab.ai/blog/best-4-text-to-video-ai-tools<br />
+https://www.youtube.com/watch?v=ysUFk87I-Vk<br />
+https://lablab.ai/t/stable-diffusion-tutorial-how-to-make-an-ai-art-with-qr-code<br />
