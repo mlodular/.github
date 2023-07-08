@@ -17,7 +17,7 @@ https://fastapi.tiangolo.com
 
 -------------
 
-auto generation
+auto generation<br />
 https://3dfy.ai<br />
 https://bubble.io<br />
 https://www.dora.run<br />
