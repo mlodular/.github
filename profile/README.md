@@ -5,4 +5,9 @@ https://www.dora.run
 
 reference
 https://nodejs.org/api/events.html<br />
-https://nodejs.org/api/permissions.html#module-based-permissions
+https://nodejs.org/api/permissions.html#module-based-permissions<br />
+
+
+
+To react or not react
+https://dev.to/majdsufian/react-cheatsheet-for-2023-14bd
