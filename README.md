@@ -18,7 +18,15 @@ https://fastapi.tiangolo.com
 -------------
 
 auto generation
+https://3dfy.ai
 https://bubble.io
+https://www.dora.run
+https://radicalmotion.com
+https://www.deepmotion.com
+https://openaimaster.com/make-a-3d-website-with-no-coding/
+https://www.fotor.com/features/ai-3d-model-generator/
+https://www.app.kaedim3d.com/signup
+https://www.kaedim3d.com
 
 _____________
 emerging tech
