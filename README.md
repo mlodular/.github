@@ -28,6 +28,10 @@ https://www.fotor.com/features/ai-3d-model-generator/
 https://www.app.kaedim3d.com/signup
 https://www.kaedim3d.com
 
+https://spline.design/ai
+https://www.fotor.com/features/ai-3d-model-generator/
 _____________
 emerging tech
+https://reactjsexample.com/an-ai-powered-3d-website-using-react-and-three-js/
 https://blog.unity.com/engine-platform/introducing-unity-muse-and-unity-sentis-ai
+https://www.alpha3d.io
