@@ -30,6 +30,9 @@ https://www.kaedim3d.com
 
 https://spline.design/ai
 https://www.fotor.com/features/ai-3d-model-generator/
+
+fotor.com
+https://u-static.fotor.com/images/text-to-image/result/PRO-9fdad671df8c4fd188efb13aad640072.jpg
 _____________
 emerging tech
 https://reactjsexample.com/an-ai-powered-3d-website-using-react-and-three-js/
