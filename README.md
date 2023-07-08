@@ -19,3 +19,7 @@ https://fastapi.tiangolo.com
 
 auto generation
 https://bubble.io
+
+_____________
+emerging tech
+https://blog.unity.com/engine-platform/introducing-unity-muse-and-unity-sentis-ai
