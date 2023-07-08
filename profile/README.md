@@ -11,3 +11,7 @@ https://nodejs.org/api/permissions.html#module-based-permissions<br />
 
 To react or not react
 https://dev.to/majdsufian/react-cheatsheet-for-2023-14bd
+
+
+text to video
+https://lablab.ai/blog/best-4-text-to-video-ai-tools
