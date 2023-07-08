@@ -35,3 +35,8 @@ emerging tech
 https://reactjsexample.com/an-ai-powered-3d-website-using-react-and-three-js/
 https://blog.unity.com/engine-platform/introducing-unity-muse-and-unity-sentis-ai
 https://www.alpha3d.io
+
+historical links from today
+https://lablab.ai/blog/best-4-text-to-video-ai-tools
+https://www.youtube.com/watch?v=ysUFk87I-Vk
+https://lablab.ai/t/stable-diffusion-tutorial-how-to-make-an-ai-art-with-qr-code
