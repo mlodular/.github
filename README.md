@@ -14,3 +14,8 @@ https://blitzjs.com
 
 
 https://fastapi.tiangolo.com
+
+-------------
+
+auto generation
+https://bubble.io
