@@ -7,16 +7,16 @@ a very nice AI enhanced build environment is already available at
 https://www.dora.run
 
 
-reference
+reference<br />
 https://nodejs.org/api/events.html<br />
 https://nodejs.org/api/permissions.html#module-based-permissions<br />
 
 
-To react or not react
+To react or not react<br />
 https://dev.to/majdsufian/react-cheatsheet-for-2023-14bd
 
 
-text to video these links will move
+text to video these links will move<br />
 https://lablab.ai/blog/best-4-text-to-video-ai-tools <br />
 https://alpha.genmo.ai/create<br />
 
