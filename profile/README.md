@@ -19,6 +19,7 @@ To react or not react<br />
 text to video emergence<br />
 https://lablab.ai/blog/best-4-text-to-video-ai-tools <br />
 https://alpha.genmo.ai/create<br />
-<a href="https://runwayml.com">runwayml</a>
+<a href="https://runwayml.com">runwayml</a><br />
 
+web3 schools html5
 <a href="https://www.w3schools.com/html/html5_draganddrop.asp">html5_draganddrop</a>
