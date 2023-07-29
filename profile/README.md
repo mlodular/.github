@@ -21,3 +21,5 @@ https://lablab.ai/blog/best-4-text-to-video-ai-tools <br />
 https://alpha.genmo.ai/create<br />
 
 https://runwayml.com
+
+<a href="https://www.w3schools.com/html/html5_draganddrop.asp">html5_draganddrop</a>
