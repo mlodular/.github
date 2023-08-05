@@ -21,7 +21,7 @@ https://lablab.ai/blog/best-4-text-to-video-ai-tools <br />
 https://alpha.genmo.ai/create<br />
 <a href="https://runwayml.com">runwayml</a><br />
 
-web3 schools html5 <a href="https://www.w3schools.com/html/html5_draganddrop.asp">html5_draganddrop</a><br />
+web3 schools html5 <a href="https://www.w3schools.com/html/html5_draganddrop.asp">draganddrop</a><br />
 
 <a href="https://www.w3.org/TR/webgpu/">webgpu</a><br />
 <a href="https://en.wikipedia.org/wiki/Khronos_Group">Khronos_Group</a>
