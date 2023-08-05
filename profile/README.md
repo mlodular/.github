@@ -1,5 +1,5 @@
 # modular design 
-coding in three dimensions will be done using .ddd 3D display abstraction and .3dx for 3D printing functions control<br  />
+coding in three dimensions will be done using .ddd 3D display abstraction<br  />
 
 # faicey
 <a href="https://github.com/Faicey">UIUX AIML design parameters</a><br />
