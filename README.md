@@ -1,6 +1,8 @@
 # .github
 reference to machine learning generation tools and tutorials for rapid dapplications deployment
 
+<a href="https://www.w3.org/TR/webgpu/">webgpu</a>
+
 
 https://lablab.ai/apps
 
